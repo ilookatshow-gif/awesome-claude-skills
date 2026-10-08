@@ -90,6 +90,7 @@
 
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+- [direct-report-audit](https://github.com/ilookatshow-gif/direct-report-audit/tree/main/skills/direct-report-audit) - Analyze normalized Yandex Direct placement CSV/TSV exports offline: exact CPC/CPA and threshold-based manual-review candidates. Python standard library only; no API or campaign changes.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
 - [mysql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mysql) - Safe read-only SQL queries against MySQL databases.
