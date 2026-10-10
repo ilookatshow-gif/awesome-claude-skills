@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [competitor-offer-radar](https://github.com/ilookatshow-gif/competitor-offer-radar/blob/main/skills/competitor-offer-radar/SKILL.md) - Compare authorised JSON offer snapshots for price, delivery, and component changes with explicit comparability limits; companion skill for a bundled offline Python CLI, no scraping.
 
 
 ## 🔬 Scientific & Research Tools
